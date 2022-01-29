@@ -8,8 +8,6 @@
 
 I am a Full-stack Mobile and Web Developer who has pashion to write organized and complicated code. :computer:
   
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node-Js-success"> Node.js with HYF school located in Amsterdam.
- 
  👯 I’m looking to find new challanges and learn more and more.
 
 
